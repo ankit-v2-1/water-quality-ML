@@ -21,7 +21,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/ankit-v2-1/Water-quality-ML">
-    <img src="https://cdn.iconscout.com/icon/free/png-128/water-waste-savewater-smart-city-management-2-23279.png" alt="Logo" width="150" height="150">
+    <img src="https://cdn.iconscout.com/icon/free/png-128/tap-2326215-1930962.png" alt="Logo" width="110" height="110">
   </a>
 
   <h3 align="center">Water quality ML</h3>
@@ -61,10 +61,10 @@ To get a local copy up and running follow these simple steps.
 ### Dependencies
 
 This is an example of how to list things you need to use the software and how to install them.
+
 * [Scikit-learn](https://scikit-learn.org/stable/) <br>
 * [Pandas](https://pypi.org/project/pandas/)
-
-  ```sh
+ ```sh
   pip install scikit-learn
   pip install pandas
   ```
