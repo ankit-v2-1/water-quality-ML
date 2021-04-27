@@ -45,7 +45,21 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-Compression of various classifier for water Quality Data!
+The problem statement is, we have given data of quality of water and factors responsible for that and we have to classify the data using classifier algorithms and then compare the data of result obtained in each algorithm.
+
+Classifiers in Machine Learning: -
+A classifier in machine learning is an algorithm that automatically orders or categorizes data into one or more of a set of “classes.”
+
+Different types of classifiers we have used: 
+1. Linear Regression
+2. Logistic Regression
+3. K Nearest Neighbor (KNN) 
+4. 4. Decision tree
+5. Naive Bayes
+6. Support Vector Machine (SVM)
+
+Data Description: -
+Dataset consists of 16 independent references and one output reference. Ref1 and Ref2 doesn't have any impact on water quality and also since ref 'CARBOHYDRATE' has zero value for all it doesn't affect the quality. We have water quality data of 88 different places.
 
 ### Built With
 
