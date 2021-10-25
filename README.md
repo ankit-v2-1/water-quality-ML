@@ -54,7 +54,7 @@ Different types of classifiers we have used:
 1. Linear Regression
 2. Logistic Regression
 3. K Nearest Neighbor (KNN) 
-4. 4. Decision tree
+4. Decision tree
 5. Naive Bayes
 6. Support Vector Machine (SVM)
 
