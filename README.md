@@ -157,7 +157,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [issues-shield]: https://img.shields.io/github/issues/ankit-v2-1/Water-quality-ML.svg?style=for-the-badge
 [issues-url]: https://github.com/ankit-v2-1/Water-quality-ML/issues
 [license-shield]: https://img.shields.io/github/license/ankit-v2-1/Water-quality-ML.svg?style=for-the-badge
-[license-url]: https://github.com/ankit-v2-1/Water-quality-ML/blob/master/LICENSE.txt
+[license-url]: https://github.com/ankit-v2-1/Water-quality-ML/blob/master/LICENSE
 [twitter-shield]: https://img.shields.io/twitter/follow/ankit_v2_1?style=for-the-badge&color=09f&labelColor=black.svg&logo=twitter&label=@ankit_v2_1
 [twitter-url]: https://twitter.com/ankit_v2_1
 [product-screenshot]: images/screenshot.png
